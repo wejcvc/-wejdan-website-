@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wejdan Hashim</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #1e90ff;
+        }
+        a:link {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        a:visited {
+            color: #6495ed;
+        }
+        a:hover {
+            color: #ff6347;
+        }
+        img {
+            border: 2px solid #1e90ff;
+            padding: 5px;
+            margin: 20px 0;
+            max-width: 100%;
+            height: auto;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            color: #1e90ff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Wejdan Hashim</h1>
+        
+        <div class="section">
+            <h2>About Me</h2>
+            <p>I am Wejdan Hashim, a university student at Effat with a deep passion for cinema and makeup. I love combining creativity and technical skills, and I am always exploring new ways to tell stories visually. My academic journey has further fueled my interest in both filmmaking and makeup artistry.</p>
+        </div>
+
+        <div class="section">
+            <h2>Hobbies and Interests</h2>
+            <p>Cinema is one of my main interests, where I enjoy studying films, their composition, and storytelling. I also love experimenting with makeup, which I consider a form of creative expression. Both fields allow me to blend imagination and technical knowledge.</p>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <p>I have worked on several short films as part of my projects, where I experiment with different styles of cinematography and makeup design. These projects are an extension of my passion for storytelling through visuals.</p>
+            <a href="https://nataliesetareh.com">Check out this link for more</a>
+        </div>
+
+        <div class="section">
+            <h2>Gallery</h2>
+            <img src="https://via.placeholder.com/400x200.png" alt="Placeholder Image">
+        </div>
+    </div>
+</body>
+</html>
